@@ -1,0 +1,12 @@
+# Fred Weinhaus' cylinderize.sh is free for NON-COMMERCIAL use only and may not
+# be redistributed without his permission. Fetch it yourself (see README).
+vendor/cylinderize.sh
+
+# generated
+out/
+demo/photos/
+
+# local working files
+research/
+PROPOSAL.md
+.DS_Store
