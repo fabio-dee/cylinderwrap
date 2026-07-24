@@ -314,5 +314,6 @@ gitignored and the quick start fetches it from his site. If this pipeline is
 going into a commercial product workflow, sorting out that licence is a real
 line item, not a formality.
 
-`cylinderwrap.sh` itself and the demo generator are mine and carry no such
-restriction.
+`cylinderwrap.sh` and the demo generator are mine and carry no such restriction —
+they are MIT licensed (see `LICENSE`). That licence covers this repo only, not
+`cylinderize.sh`.
