@@ -28,7 +28,10 @@ mkdir -p vendor
 curl -s "http://www.fmwconcepts.com/imagemagick/downloadcounter.php?scriptname=cylinderize&dirname=cylinderize" \
   -o vendor/cylinderize.sh && chmod +x vendor/cylinderize.sh
 
-# 2. render
+# 2. generate the demo product shots (seeded, so they come out identical)
+./demo/make-demo-candles.sh
+
+# 3. render
 ./cylinderwrap.sh --config example/project.json
 ```
 
