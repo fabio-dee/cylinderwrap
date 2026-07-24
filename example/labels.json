@@ -1,0 +1,86 @@
+[
+  { "image": "candle-01.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Lavender Fields", "scale": 1.0 },
+      { "text": "SOY WAX  ·  8 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-02.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Vanilla Bean", "scale": 1.0 },
+      { "text": "SOY WAX  ·  12 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-03.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Cedar & Smoke", "scale": 1.0 },
+      { "text": "SOY WAX  ·  8 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-04.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Sea Salt", "scale": 1.0 },
+      { "text": "SOY WAX  ·  16 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-05.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Amber Noir", "scale": 1.0 },
+      { "text": "SOY WAX  ·  8 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-06.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Fig & Olive", "scale": 1.0 },
+      { "text": "SOY WAX  ·  8 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-07.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Wild Bergamot", "scale": 1.0 },
+      { "text": "SOY WAX  ·  16 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-08.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Birch Bark", "scale": 1.0 },
+      { "text": "SOY WAX  ·  8 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-09.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Honey & Oat", "scale": 1.0 },
+      { "text": "SOY WAX  ·  12 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-10.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Rosemary Mint", "scale": 1.0 },
+      { "text": "SOY WAX  ·  8 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-11.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Tobacco Leaf", "scale": 1.0 },
+      { "text": "SOY WAX  ·  16 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-12.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Cotton Linen", "scale": 1.0 },
+      { "text": "SOY WAX  ·  8 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-13.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Blood Orange", "scale": 1.0 },
+      { "text": "SOY WAX  ·  12 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-14.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Palo Santo", "scale": 1.0 },
+      { "text": "SOY WAX  ·  8 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-15.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Black Fig", "scale": 1.0 },
+      { "text": "SOY WAX  ·  16 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-16.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Juniper Frost", "scale": 1.0 },
+      { "text": "SOY WAX  ·  8 OZ", "scale": 0.28, "kerning": 16 } ] },
+
+  { "image": "candle-17.jpg", "lines": [
+      { "text": "HEARTH & HOME", "scale": 0.34, "kerning": 22 },
+      { "text": "Sandalwood", "scale": 1.0 },
+      { "text": "100% SOY  ·  8 OZ", "scale": 0.28, "kerning": 16 } ] }
+]

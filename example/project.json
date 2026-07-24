@@ -1,0 +1,32 @@
+{
+  "input_dir":  "../demo/photos",
+  "output_dir": "../out",
+  "text_source": "labels.json",
+  "output_format": "jpg",
+
+  "defaults": {
+    "font":  "/System/Library/Fonts/Supplemental/Futura.ttc",
+    "color": "#4a4036",
+
+    "band":       { "top": 0.26, "bottom": 0.58, "width": 0.74 },
+    "text_inset": 0.05,
+    "line_gap":   0.30,
+    "align":      "center",
+
+    "efactor":  1,
+    "quality":  1.0,
+
+    "shading":   0.55,
+    "edge_fade": 0.40,
+    "opacity":   0.94,
+    "softness":  0.3,
+    "blend":     "over"
+  },
+
+  "images": {
+    "candle-04": { "band": { "top": 0.22, "bottom": 0.62, "width": 0.70 } },
+    "candle-07": { "band": { "top": 0.24, "bottom": 0.60, "width": 0.70 } },
+    "candle-13": { "band": { "top": 0.22, "bottom": 0.62, "width": 0.72 } },
+    "candle-15": { "band": { "top": 0.24, "bottom": 0.60, "width": 0.72 } }
+  }
+}
